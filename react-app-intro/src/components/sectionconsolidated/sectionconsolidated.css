@@ -1,0 +1,9 @@
+.sectionconsolidated{
+    height:300px;
+    width:700px;
+    padding: 20px 50px;
+    display:flex;
+    align-items: center;
+    text-align: left;
+
+}
